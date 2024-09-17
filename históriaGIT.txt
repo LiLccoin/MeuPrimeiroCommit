@@ -1,0 +1,9 @@
+O Git é um sistema de controle de versão distribuído, criado por Linus Torvalds em 2005. Ele surgiu a partir de uma necessidade no desenvolvimento do kernel do Linux, após a equipe perder o acesso gratuito ao BitKeeper, que era o sistema de controle de versão utilizado até então.
+
+Torvalds e sua equipe precisavam de uma ferramenta que fosse rápida, eficiente para grandes projetos, e que suportasse o trabalho de múltiplos desenvolvedores em paralelo. Assim, ele desenvolveu o Git com as seguintes características principais:
+
+- **Descentralização**: Diferente de sistemas anteriores, cada desenvolvedor tem uma cópia completa do repositório, o que torna o processo mais seguro e independente de um servidor central.
+- **Velocidade e Eficiência**: O Git foi projetado para ser extremamente rápido, especialmente em operações comuns, como commit e merge.
+- **Integridade dos Dados**: Cada alteração no código é registrada de forma que o histórico não possa ser modificado sem detecção.
+
+Hoje, o Git é amplamente usado no desenvolvimento de software, permitindo que equipes colaborem de forma eficiente, organizando o código, rastreando mudanças e facilitando o trabalho em diferentes versões simultaneamente.
